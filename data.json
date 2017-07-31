@@ -4,4 +4,11 @@
     "icon":"https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png",
     "des":"医学期刊杂志",
     "tags":["期刊"]
-}]
+},{
+    "name":"康程管理系统",
+    "url":"http://202.201.201.251/",
+    "icon":"https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png",
+    "des":"等级评审系统",
+    "tags":["文件"]
+}
+]
